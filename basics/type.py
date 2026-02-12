@@ -11,3 +11,4 @@ print(f"Type of {num} is {type(float(num))}")
 # isintance operator
 
 print(f"Is {num} an integer ? : {isinstance(num,int)}")
+print(f"Is {str(num)} an integer ? : {isinstance(num,int)}")

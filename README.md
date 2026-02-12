@@ -11,3 +11,15 @@
  - Check leap year
  - Simple calculator using if–else
  - Type conversion & isinstance demo
+
+2️⃣ Loops & Number Logic (9–18)
+ - Print first N natural numbers
+ - Sum of digits of a number
+ - Reverse a number
+ - Palindrome number checker
+ - Prime number checker
+ - Print all primes in a range
+ - Factorial (iterative)
+ - Fibonacci series
+ - Armstrong number checker
+ - Count digits in a number

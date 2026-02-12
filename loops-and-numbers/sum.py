@@ -1,0 +1,9 @@
+# Program to find sum of digits of a number
+
+num = input("Enter a number :")
+sum=0
+
+for i in num:
+    sum+=int(i)
+
+print(f"The sum of digits of nnumber is : {sum}")
